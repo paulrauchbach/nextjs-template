@@ -1,0 +1,1 @@
+# Next.js Template with Taildwind, Shadcn, NextAuth, MongoDB
